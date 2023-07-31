@@ -5,8 +5,6 @@ Home security system based on SIM800 is a security system that uses a SIM card t
 
 <div align="center"><a href="#"><img src="Images/11.jpg"  width="1600"></a><br></div>
 <div align="center"><a href="#"><img src="Images/FGFHH.jpg"  width="1600"></a><br></div>
-<div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
-
 
 ## Features
 
@@ -45,6 +43,8 @@ Home security system based on SIM800 is a security system that uses a SIM card t
   -	1 x LED to Show Power Connection
   -	Operating Voltage 5-9V
   -	Dimensions : 8cm x 14cm
+
+<div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
 ## Applications
 
