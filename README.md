@@ -47,7 +47,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 ### Hardware setup
 
-|   setup  | Description |
+|   Setup  | Description |
 | ----------- | ----------- |
 | Learn wireless sensor     | After configuring the sensor address jumpers, press and hold the button on the board for 3 seconds until the board emits 2 consecutive beeps. Now, release the button quickly and move the wireless sensor (connect the sensor power) if you want to learn the sensor. The board will emit 2 consecutive beeps to confirm successful learn. If an error occurs during the learn process, the board will emit only one beep.        |
 | Remove the wireless sensor     | Press and hold the setting button on the board for 3 seconds until the board emits 2 consecutive beeps. Now, quickly release the button and activate the wireless sensor (connect the sensor's power). If the sensor is successfully removed, the board will emit 3 beeps. If there is an error in the deletion process, the board will emit only one beep (similar to the repetition in the sensor Learn process).        |
@@ -61,7 +61,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 ### SMS setup
 
-|    setup   | Instruction |
+|    Setup   | Instruction |
 | ----------- | ----------- |
 | Save mobile number      |<UniqueCode; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
 | Getting the status mobile number      | < UniqueCode > for example :  ```RIJ111111111111111```        |
