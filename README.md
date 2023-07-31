@@ -9,7 +9,7 @@ Home security system based on SIM800 is a security system that uses a SIM card t
 ## Features
 
 -  ZONE:
-  -
+  -  4 wired zones and 10 wireless zones for connecting wireless sensors
 
 - Caller memory:
   - 
