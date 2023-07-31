@@ -16,7 +16,7 @@ Home security system based on SIM800 is a security system that uses a SIM card t
     -  10 mobile phone number storage memory
       
 -  Battery charger:
-    -  With charging circuit and battery protection
+    -  With charging and battery protection circuit
 
       
 - Battery charger:
