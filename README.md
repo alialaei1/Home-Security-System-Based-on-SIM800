@@ -41,7 +41,6 @@ Additionally, this type of system can be controlled remotely via text message, a
     -  Control (on, off, settings) via SMS.
       
 <br/>
-<div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
 ## Setup
 
@@ -83,6 +82,11 @@ Additionally, this type of system can be controlled remotely via text message, a
 | Reset the device | ```RIJ RESET```     |
 
 ### For detailed information ```Src/main.cpp```
+
+<br/>
+<div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
+<br/>
+
 
 ## License
 [MIT License](LICENSE)
