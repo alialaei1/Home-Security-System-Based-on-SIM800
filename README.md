@@ -8,8 +8,8 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 ### This project has been tested more than 4000 hours...
 
-<div align="center"><a href="#"><img src="Images/1.jpg"  width="1600"></a><br></div>
-<div align="center"><a href="#"><img src="Images/2.jpg"  width="1600"></a><br></div>
+<div align="center"><a href="#"><img src="Images/1.jpg"  width="1200"></a><br></div>
+<div align="center"><a href="#"><img src="Images/2.jpg"  width="1200"></a><br></div>
 
 <br/>
 
@@ -84,7 +84,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 ### For detailed information ```Src/main.cpp```
 
 <br/>
-<div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
+<div align="center"><a href="#"><img src="Images/3.jpg"  width="1200"></a><br></div>
 <br/>
 
 
