@@ -30,8 +30,7 @@ Home security system based on SIM800 is a security system that uses a SIM card t
  -  IOT:
     -  Internet connection via Wi-Fi
 
-
-<\br>
+<br/>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
 ## Applications
