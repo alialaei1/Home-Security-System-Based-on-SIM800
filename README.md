@@ -72,7 +72,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 |    Description   | Instruction |
 | ----------- | ----------- |
 | Save mobile number      |<Unique code; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
-| status mobile number      |<Unique code> for example :  ```RIJ111111111111111```        |
+| Getting the status mobile number      |<Unique code> for example :  ```RIJ111111111111111```        |
 | Delete mobile number     | <Special code; mobile number saved> for example :  ```RIJ111111111111111;09191111111```         |
 | Activate the device      |  ```RIJ ON```        |
 | Disable the device      |  ```RIJ OFF```        |
@@ -82,12 +82,12 @@ Additionally, this type of system can be controlled remotely via text message, a
 | Disable the notification beep     | ```RIJ BEEP OFF```        |
 | Enable zones      | <RIJ ZONE "Number" ON> for example :  ```RIJ ZONE 1 ON```        |
 | Disable zones  | <RIJ ZONE "Number" OFF> for example :  ```RIJ ZONE 1 OFF```        |
-| Alarm time   | <RIJ SIREN "Minutes"> for example :  ```RIJ SIREN 15```         |
+| Set the Alarm time   | <RIJ SIREN "Minutes"> for example :  ```RIJ SIREN 15```         |
 | Send USSD code | <RIJ UCODE:"Code"> for example :  ```RIJ UCODE:*11111*11111#```     |
-| Set the device time | <RIJ SET TIME: "Time"+18> for example :  ```RIJ SET TIME:22/05/09,23:59:59+18```     |
-| Status of the device | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
-| Status of zones | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
-| Reset the device | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
+| Set the device time | <RIJ SET TIME: "Time"+"Time Zone"> for example :  ```RIJ SET TIME:22/05/09,23:59:59+18```     |
+| Getting the Status of the device | ```RIJ STATUS```     |
+| Getting the Status of zones | ```RIJ STATUS ZONE```     |
+| Reset the device | ```RIJ RESET```     |
 
 ### For detailed information ```Src/main.cpp```
 
