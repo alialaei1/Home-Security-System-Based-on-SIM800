@@ -8,8 +8,8 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 ### This project has been tested more than 4000 hours...
 
-<div align="center"><a href="#"><img src="Images/11.jpg"  width="1600"></a><br></div>
-<div align="center"><a href="#"><img src="Images/FGFHH.jpg"  width="1600"></a><br></div>
+<div align="center"><a href="#"><img src="Images/1.jpg"  width="1600"></a><br></div>
+<div align="center"><a href="#"><img src="Images/2.jpg"  width="1600"></a><br></div>
 
 <br/>
 
