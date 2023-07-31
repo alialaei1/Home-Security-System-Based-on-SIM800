@@ -50,22 +50,15 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 |    Description   | Instruction |
 | ----------- | ----------- |
-| Save and status mobile number      | In        |
-| Delete mobile number     | In        |
-| Activate the device      | In        |
-| Disable the device      | In        |
-| Activate the alarm      | In        |
-| Disable the alarm    | In        |
-| Activate  the notification beep     | In        |
-| Disable the notification beep     | In        |
-| Enable zones      | In        |
-| Disable zones  | In         |
-| Alarm time   | In         |
-| Send USSD code | In     |
-| Set the device time | In     |
-| Status of the device | In     |
-| Status of zones | In     |
-| Reset the device | In     |
+| Learn wireless sensor     | In        |
+| Remove the wireless sensor     | In        |
+| Learn the remote's Activate button     | In        |
+| Remove the remote's Activate button    | In        |
+| Learn the remote's Disable button     | In        |
+| Remove the remote's Disable button     | In        |
+| Cancel the Learn or Remove process     | In        |
+| Remove all device in memory     | In        |
+
 
 ### SMS Instruction
 
