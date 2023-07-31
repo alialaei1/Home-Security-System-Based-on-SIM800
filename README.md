@@ -26,12 +26,12 @@ Home security system based on SIM800 is a security system that uses a SIM card t
 
  -  External antenna socket:
     -  SMA socket to connect the SIM800 antenna
-  
+
+ -  IOT:
+    -  Internet connection via Wi-Fi
 
 
-
-
-
+<\br>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
 ## Applications
