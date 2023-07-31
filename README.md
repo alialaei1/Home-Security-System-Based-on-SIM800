@@ -43,12 +43,12 @@ Additionally, this type of system can be controlled remotely via text message, a
 <br/>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
+## Instruction
+
+
 ### SMS Instruction
 
-For detailed information ```Src/main.cpp```
-
-
-| Instruction       | Description |
+|    Description   | Instruction |
 | ----------- | ----------- |
 | Save and status mobile number      | In        |
 | Delete mobile number     | In        |
@@ -66,6 +66,29 @@ For detailed information ```Src/main.cpp```
 | Status of the device | In     |
 | Status of zones | In     |
 | Reset the device | In     |
+
+### SMS Instruction
+
+|    Description   | Instruction |
+| ----------- | ----------- |
+| Save and status mobile number      | In        |
+| Delete mobile number     | In        |
+| Activate the device      | In        |
+| Disable the device      | In        |
+| Activate the alarm      | In        |
+| Disable the alarm    | In        |
+| Activate  the notification beep     | In        |
+| Disable the notification beep     | In        |
+| Enable zones      | In        |
+| Disable zones  | In         |
+| Alarm time   | In         |
+| Send USSD code | In     |
+| Set the device time | In     |
+| Status of the device | In     |
+| Status of zones | In     |
+| Reset the device | In     |
+
+### For detailed information ```Src/main.cpp```
 
 ## License
 [MIT License](LICENSE)
