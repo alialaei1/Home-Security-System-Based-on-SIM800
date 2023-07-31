@@ -71,22 +71,23 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 |    Description   | Instruction |
 | ----------- | ----------- |
-| Save and status mobile number      |<Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
-| Delete mobile number     | In        |
-| Activate the device      | In        |
-| Disable the device      | In        |
-| Activate the alarm      | In        |
-| Disable the alarm    | In        |
-| Activate  the notification beep     | In        |
-| Disable the notification beep     | In        |
-| Enable zones      | In        |
-| Disable zones  | In         |
-| Alarm time   | In         |
-| Send USSD code | In     |
-| Set the device time | In     |
-| Status of the device | In     |
-| Status of zones | In     |
-| Reset the device | In     |
+| Save mobile number      |<Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
+| status mobile number      |<Special code> for example :  ```RIJ111111111111111```        |
+| Delete mobile number     | <Special code; mobile number saved> for example :  ```RIJ111111111111111;09191111111```         |
+| Activate the device      |  ```RIJ ON```        |
+| Disable the device      |  ```RIJ OFF```        |
+| Activate the alarm      | ```RIJ SIREN ON```        |
+| Disable the alarm    | ```RIJ SIREN OFF```        |
+| Activate  the notification beep     | ```RIJ BEEP ON```        |
+| Disable the notification beep     | ```RIJ BEEP OFF```        |
+| Enable zones      | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
+| Disable zones  | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```         |
+| Alarm time   | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```         |
+| Send USSD code | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
+| Set the device time | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
+| Status of the device | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
+| Status of zones | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
+| Reset the device | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
 
 ### For detailed information ```Src/main.cpp```
 
