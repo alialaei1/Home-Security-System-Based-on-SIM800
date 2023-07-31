@@ -50,10 +50,22 @@ For detailed information ```Src/main.cpp```
 
 | Instruction       | Description |
 | ----------- | ----------- |
-| Users      | In this section, you can manage users (add or delete)       |
-| Topic   | In this section, you can create the main topics for which you want to raise questions or issues, for example: training a specific device or a specific topic of an application. Note that by choosing a unique link for your topic, you can share it through the link or QR code.        |
-| Questions   | In this section, you can create as many questions as you want for each type, for example: training on turning on the device or training on connecting the device to the Internet or training on registering on the website        |
-| Answers   | In this section you can create an answer for each question, on the answer page you can use video, photos, fonts and various colors like a weblog.        |
+| Save and status mobile number      | In        |
+| Delete mobile number     | In        |
+| Activate the device      | In        |
+| Disable the device      | In        |
+| Activate the alarm      | In        |
+| Disable the alarm    | In        |
+| Activate  the notification beep     | In        |
+| Disable the notification beep     | In        |
+| Enable zones      | In        |
+| Disable zones  | In         |
+| Alarm time   | In         |
+| Send USSD code | In     |
+| Set the device time | In     |
+| Status of the device | In     |
+| Status of zones | In     |
+| Reset the device | In     |
 
 ## License
 [MIT License](LICENSE)
