@@ -71,8 +71,8 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 |    Description   | Instruction |
 | ----------- | ----------- |
-| Save mobile number      |<Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
-| status mobile number      |<Special code> for example :  ```RIJ111111111111111```        |
+| Save mobile number      |<Unique code; mobile number> for example :  ```RIJ111111111111111;09191111111```        |
+| status mobile number      |<Unique code> for example :  ```RIJ111111111111111```        |
 | Delete mobile number     | <Special code; mobile number saved> for example :  ```RIJ111111111111111;09191111111```         |
 | Activate the device      |  ```RIJ ON```        |
 | Disable the device      |  ```RIJ OFF```        |
