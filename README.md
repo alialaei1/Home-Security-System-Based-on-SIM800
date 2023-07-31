@@ -36,14 +36,3 @@ Home security system based on SIM800 is a security system that uses a SIM card t
 <br/>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
-## Applications
-
-  *	Learning Digital Electronics
-  *	Educational tool for schools and universities
-  * Robotics
-  *	Internet of Things (IoT)
-  *	Signal Processing
-  *	Embedded systems
-  *	Image Processing
-  *	Product Prototyping
-
