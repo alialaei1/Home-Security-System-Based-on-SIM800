@@ -20,25 +20,25 @@ Additionally, this type of system can be controlled remotely via text message, a
     -  10 wireless zones for connecting wireless sensors
 
 -  Remote controller:
-    -  Learning 10 remote controllers
+    -  Supports 10 remote controllers
       
 -  Caller memory:
-    -  10 mobile phone number memory
+    -  Stores up to 10 mobile phone numbers
       
 -  Battery charger:
-    -  internal charging and battery protection circuit
+    -  Equipped with an internal charging and battery protection circuit
 
  -  Internal siren circuit:
-    -  45 watt internal siren circuit
+    -  Features a 45-watt internal siren circuit
 
  -  External antenna socket:
-    -  SMA socket to connect the SIM800 antenna
+    -  Includes an SMA socket for connecting the SIM800 antenna
 
  -  IOT:
-    -  Internet connection via Wi-Fi
+    -  Allows for internet connection via Wi-Fi
 
  -  SMS:
-    -  Control(on, off, settings) via SMS
+    -  Control (on, off, settings) via SMS.
       
 <br/>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
