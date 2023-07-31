@@ -23,7 +23,7 @@ Additionally, this type of system can be controlled remotely via text message, a
     -  Learning 10 remote controllers
       
 -  Caller memory:
-    -  10 mobile phone number Learn memory
+    -  10 mobile phone number memory
       
 -  Battery charger:
     -  internal charging and battery protection circuit
