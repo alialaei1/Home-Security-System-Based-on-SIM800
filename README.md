@@ -23,7 +23,7 @@ Additionally, this type of system can be controlled remotely via text message, a
     -  Learning 10 remote controllers
       
 -  Caller memory:
-    -  10 mobile phone number storage memory
+    -  10 mobile phone number Learn memory
       
 -  Battery charger:
     -  internal charging and battery protection circuit
@@ -50,8 +50,8 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 |    Description   | Instruction |
 | ----------- | ----------- |
-| Learn wireless sensor     | After configuring the sensor address jumpers, press and hold the button below the board for 3 seconds until the device emits 2 consecutive beeps. Now, release the button quickly and move the wireless sensor (connect the sensor power) if you want to save the sensor. The device will emit 2 consecutive beeps to confirm successful storage. If an error occurs during the storage process, the device will emit only one beep.        |
-| Remove the wireless sensor     | In        |
+| Learn wireless sensor     | After configuring the sensor address jumpers, press and hold the button below the board for 3 seconds until the board emits 2 consecutive beeps. Now, release the button quickly and move the wireless sensor (connect the sensor power) if you want to Learn the sensor. The board will emit 2 consecutive beeps to confirm successful Learn. If an error occurs during the Learn process, the board will emit only one beep.        |
+| Remove the wireless sensor     | Press and hold the setting button under the board for 3 seconds until the board emits 2 consecutive beeps. Now, quickly release the button and activate the wireless sensor (connect the sensor's power). If the sensor is successfully removed, the board will emit 3 beeps. If there is an error in the deletion process, the board will emit only one beep (similar to the repetition in the sensor Learn process).        |
 | Learn the remote's Activate button     | In        |
 | Remove the remote's Activate button    | In        |
 | Learn the remote's Disable button     | In        |
