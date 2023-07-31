@@ -18,13 +18,9 @@ Home security system based on SIM800 is a security system that uses a SIM card t
 -  Battery charger:
     -  With charging and battery protection circuit
 
-      
-- Battery charger:
-  - 
-
-- Internal siren circuit:
-  -	
-
+ -  Internal siren circuit:
+    -  With 45 watt internal siren circuit
+           
 -  External antenna socket:
   -
   
