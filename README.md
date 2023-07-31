@@ -6,7 +6,7 @@ The sensors can be placed on doors, windows, and other areas around the home to 
 
 Additionally, this type of system can be controlled remotely via text message, allowing the homeowner to turn the system on or off, and to check its status from anywhere at any time.
 
-### This project has been tested more than 4000 hours.
+### This project has been tested more than 4000 hours...
 
 <div align="center"><a href="#"><img src="Images/11.jpg"  width="1600"></a><br></div>
 <div align="center"><a href="#"><img src="Images/FGFHH.jpg"  width="1600"></a><br></div>
