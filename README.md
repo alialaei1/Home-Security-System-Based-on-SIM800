@@ -83,7 +83,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 | Enable zones      | <RIJ ZONE "Number" ON> for example :  ```RIJ ZONE 1 ON```        |
 | Disable zones  | <RIJ ZONE "Number" OFF> for example :  ```RIJ ZONE 1 OFF```        |
 | Alarm time   | <RIJ SIREN "Minutes"> for example :  ```RIJ SIREN 15```         |
-| Send USSD code | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
+| Send USSD code | <RIJ UCODE:"Code"> for example :  ```RIJ UCODE:*11111*11111#```     |
 | Set the device time | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
 | Status of the device | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
 | Status of zones | <Special code; mobile number> for example :  ```RIJ111111111111111;09191111111```     |
