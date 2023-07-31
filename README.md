@@ -12,6 +12,9 @@ Home security system based on SIM800 is a security system that uses a SIM card t
     -  4 wired zones
     -  10 wireless zones for connecting wireless sensors
 
+-  Remote controller:
+    -  Learning 10 remote controllers
+      
 -  Caller memory:
     -  10 mobile phone number storage memory
       
@@ -24,6 +27,10 @@ Home security system based on SIM800 is a security system that uses a SIM card t
  -  External antenna socket:
     -  SMA socket to connect the SIM800 antenna
   
+
+
+
+
 
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
