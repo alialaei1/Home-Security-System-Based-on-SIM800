@@ -43,10 +43,10 @@ Additionally, this type of system can be controlled remotely via text message, a
 <br/>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
-## Instruction
+## Setup
 
 
-### SMS Instruction
+### Hardware setup
 
 |    Description   | Instruction |
 | ----------- | ----------- |
@@ -60,7 +60,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 | Remove all device in memory     | In        |
 
 
-### SMS Instruction
+### SMS setup
 
 |    Description   | Instruction |
 | ----------- | ----------- |
