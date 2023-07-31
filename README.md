@@ -50,7 +50,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 |    Description   | Instruction |
 | ----------- | ----------- |
-| Learn wireless sensor     | In        |
+| Learn wireless sensor     | After configuring the sensor address jumpers, press and hold the button below the board for 3 seconds until the device emits 2 consecutive beeps. Now, release the button quickly and move the wireless sensor (connect the sensor power) if you want to save the sensor. The device will emit 2 consecutive beeps to confirm successful storage. If an error occurs during the storage process, the device will emit only one beep.        |
 | Remove the wireless sensor     | In        |
 | Learn the remote's Activate button     | In        |
 | Remove the remote's Activate button    | In        |
