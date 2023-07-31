@@ -48,7 +48,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 
 ### Hardware setup
 
-|    Description   | Instruction |
+|   Instruction  | Description |
 | ----------- | ----------- |
 | Learn wireless sensor     | After configuring the sensor address jumpers, press and hold the button on the board for 3 seconds until the board emits 2 consecutive beeps. Now, release the button quickly and move the wireless sensor (connect the sensor power) if you want to Learn the sensor. The board will emit 2 consecutive beeps to confirm successful Learn. If an error occurs during the Learn process, the board will emit only one beep.        |
 | Remove the wireless sensor     | Press and hold the setting button on the board for 3 seconds until the board emits 2 consecutive beeps. Now, quickly release the button and activate the wireless sensor (connect the sensor's power). If the sensor is successfully removed, the board will emit 3 beeps. If there is an error in the deletion process, the board will emit only one beep (similar to the repetition in the sensor Learn process).        |
