@@ -43,3 +43,19 @@ Additionally, this type of system can be controlled remotely via text message, a
 <br/>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1600"></a><br></div>
 
+### SMS Instruction
+
+For detailed information ```Src/main.cpp```
+
+
+| Instruction       | Description |
+| ----------- | ----------- |
+| Users      | In this section, you can manage users (add or delete)       |
+| Topic   | In this section, you can create the main topics for which you want to raise questions or issues, for example: training a specific device or a specific topic of an application. Note that by choosing a unique link for your topic, you can share it through the link or QR code.        |
+| Questions   | In this section, you can create as many questions as you want for each type, for example: training on turning on the device or training on connecting the device to the Internet or training on registering on the website        |
+| Answers   | In this section you can create an answer for each question, on the answer page you can use video, photos, fonts and various colors like a weblog.        |
+
+## License
+[MIT License](LICENSE)
+
+Free Hardware!
