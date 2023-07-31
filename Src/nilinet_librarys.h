@@ -1,0 +1,11 @@
+#include <Arduino.h>
+#include <Scheduler.h>
+#include <Task.h>
+#include <LeanTask.h>
+#include <ESP8266WiFi.h>
+//#include <SoftwareSerial.h>
+#include <RCSwitch.h>
+#include <ESP_EEPROM.h>
+#include <ezButton.h>
+#include <ezBuzzer.h>
+#include <ESP32Time.h>
