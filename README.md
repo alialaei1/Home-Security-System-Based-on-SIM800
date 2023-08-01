@@ -81,7 +81,7 @@ Additionally, this type of system can be controlled remotely via text message, a
 | Getting the Status of zones | ```RIJ STATUS ZONE```     |
 | Reset the device | ```RIJ RESET```     |
 
-### For detailed information and software ```Src/COM.ino```
+### For detailed information and script ```Src/COM.ino```
 
 
 
