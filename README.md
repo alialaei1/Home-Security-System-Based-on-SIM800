@@ -17,7 +17,6 @@ Additionally, this type of system can be controlled remotely via text message, a
 ### This project has been tested more than 4000 hours...
 
 
-<div align="center"><a href="#"><img src="Images/4.PNG"  width="1200"></a><br></div>
 <div align="center"><a href="#"><img src="Images/3.jpg"  width="1200"></a><br></div>
 <br/>
 
@@ -48,6 +47,9 @@ Additionally, this type of system can be controlled remotely via text message, a
  -  SMS:
     -  Control (on, off, settings) via SMS.
       
+<br/>
+<br/>
+<div align="center"><a href="#"><img src="Images/4.PNG"  width="1200"></a><br></div>
 <br/>
 
 ## Setup
